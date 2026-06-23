@@ -60,7 +60,6 @@ pip install -r requirements.txt
 |------|------|------|
 | **源文件（固定不可替代）** | `run_pipeline.py` `check_story.py` `tools/` `prompt/` `corpus/` | 绝对不删，不能动位置 |
 | **产出文件（临时生成）** | `output/` | 可随时清除，`.gitignore` 已忽略 |
-| **项目数据** | `.workbuddy/` | WorkBuddy 工作日志和备份 |
 
 ## 使用流程
 
